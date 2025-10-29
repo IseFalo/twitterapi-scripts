@@ -1,9 +1,9 @@
-import csv
 import requests
-from openai import OpenAI
+import json
+import os
 import time
 from datetime import datetime
-
+from openai import OpenAI
 import environ
 
 # ----------------------------------------------------------
@@ -14,203 +14,264 @@ env.read_env()
 
 API_KEY = env("TWITTER_API_KEY")
 OPENAI_API_KEY = env("OPENAI_API_KEY")
+
+client = OpenAI(api_key=OPENAI_API_KEY)
 BASE_URL = "https://api.twitterapi.io/twitter/user/last_tweets"
 
-# 🧠 OpenAI Client
-client = OpenAI(api_key=OPENAI_API_KEY)
 
-# 👥 List of usernames to process
-USERNAMES = [
-    "melindagates",
-    "officialABAT",
-    "EmmanuelMacron",
-    "CapitaineIb226",
-    "CyrilRamaphosa",
-    "SassouNGuesso_",
-    "realDonaldTrump",
-    "MoetiTshidi",
-    "Foster_Mohale",
-    "fredvalletoux",
-    "GabrielAttal",
-    "MokokiG",
-    "GSK",
-    "JoeBiden",
-    "DrManaouda",
-    "muhammadpate",
-    "SonkoOfficiel",
-    "DrTedros",
-    "DrTunjiAlausa",
-    "WilliamsRuto",
-    "KagutaMuseveni",
-]
-
-
-def is_health_related_tweet(text: str) -> bool:
-    """Return True if tweet is health-related using AI."""
-    if len(text.split()) < 5:
-        return False
-
-    prompt = f"""
-    You are analyzing tweets to determine if they are **health-related**.
-
-    Mark as "yes" ONLY if the tweet is about:
-    - health, healthcare, or hospitals
-    - diseases, infections, or outbreaks
-    - disease prevention, vaccination, or medical topics
-    - public health updates, advice, or statements
-
-    Respond strictly with "yes" or "no".
-
-    Tweet:
-    "{text}"
+# === 1. FETCH ALL TWEETS ===
+def fetch_all_tweets(username, max_tweets=None, delay=1):
     """
+    Fetch tweets from a user.
+    
+    Args:
+        username: Twitter username (without @)
+        max_tweets: Maximum number of tweets to fetch (None = all)
+        delay: Delay between API calls in seconds
+    """
+    tweets = []
+    next_cursor = ""
+    page = 0
 
+    while True:
+        page += 1
+        print(f"\n📄 Fetching page {page}...")
+        
+        params = {
+            "userName": username,
+            "includeReplies": False
+        }
+        
+        # Add cursor only if we have one
+        if next_cursor:
+            params["cursor"] = next_cursor
+            
+        headers = {"X-API-Key": API_KEY}
+
+        try:
+            response = requests.get(BASE_URL, headers=headers, params=params, timeout=30)
+            print(f"📡 Status: {response.status_code}")
+            
+        except requests.exceptions.RequestException as e:
+            print(f"❌ Request failed: {e}")
+            break
+
+        # Handle non-200 responses
+        if response.status_code == 429:
+            print("⏳ Rate limited. Waiting 60 seconds...")
+            time.sleep(60)
+            continue
+        elif response.status_code == 404:
+            print(f"❌ User '@{username}' not found")
+            break
+        elif response.status_code != 200:
+            print(f"❌ Error {response.status_code}: {response.text[:500]}")
+            break
+
+        try:
+            data = response.json()
+        except Exception as e:
+            print(f"❌ JSON decode error: {e}")
+            print(f"Response text: {response.text[:500]}")
+            break
+
+        # Check API status
+        if data.get("status") == "error":
+            print(f"❌ API Error: {data.get('message', 'Unknown error')}")
+            break
+
+        # Get tweets - they're nested in data.tweets
+        data_obj = data.get("data", {})
+        new_tweets = data_obj.get("tweets", [])
+        
+        if not new_tweets:
+            print("⚠️ No tweets in this batch")
+            # Check if this is truly empty or an error
+            if page == 1:
+                print("\n🔍 Full response for debugging:")
+                print(json.dumps(data, indent=2)[:1000])
+            break
+
+        print(f"✅ Found {len(new_tweets)} tweets")
+        tweets.extend(new_tweets)
+
+        # Check if we've hit the max
+        if max_tweets and len(tweets) >= max_tweets:
+            print(f"🎯 Reached max tweets limit ({max_tweets})")
+            tweets = tweets[:max_tweets]
+            break
+
+        # Check for next page
+        has_next = data.get("has_next_page", False) or data_obj.get("has_next_page", False)
+        if not has_next:
+            print("✅ No more pages available")
+            break
+            
+        next_cursor = data.get("next_cursor", "") or data_obj.get("next_cursor", "")
+        if not next_cursor:
+            print("⚠️ has_next_page=true but no cursor provided")
+            break
+
+        # Rate limiting
+        if delay > 0:
+            print(f"⏳ Waiting {delay}s before next request...")
+            time.sleep(delay)
+
+    return tweets
+
+
+# === 2. AI HEALTH CLASSIFIER ===
+def is_health_related(text):
+    """Check if tweet is health-related using OpenAI API."""
     try:
         response = client.chat.completions.create(
             model="gpt-4o-mini",
-            messages=[{"role": "user", "content": prompt}],
-            temperature=0.2
+            messages=[
+                {
+                    "role": "system", 
+                    "content": "You classify if text is about health, medicine, diseases, wellbeing, medical research, healthcare, mental health, fitness, or nutrition. Reply only 'True' or 'False'."
+                },
+                {
+                    "role": "user", 
+                    "content": f"Is this health-related?\n\n{text}"
+                }
+            ],
+            max_tokens=10,
+            temperature=0
         )
+        
         answer = response.choices[0].message.content.strip().lower()
-        return answer.startswith("yes")
+        return "true" in answer
+        
     except Exception as e:
-        print(f"⚠️ AI health check failed: {e}")
+        print(f"⚠️ OpenAI error: {e}")
         return False
 
 
-def get_all_tweets_for_user(username, max_tweets=None):
+# === 3. SAVE HEALTH-RELATED TWEETS TO JSON ===
+def save_health_tweets(username, tweets):
+    """Save filtered tweets to JSON file."""
+    folder = "data"
+    os.makedirs(folder, exist_ok=True)
+    
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    path = os.path.join(folder, f"{username}_health_tweets_{timestamp}.json")
+
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(tweets, f, indent=2, ensure_ascii=False)
+
+    print(f"\n💾 Saved {len(tweets)} health-related tweets to {path}")
+    return path
+
+
+# === 4. TEST API CONNECTION ===
+def test_api_connection(username):
+    """Test if the API is working correctly."""
+    print(f"\n🔧 Testing API connection for @{username}...")
+    
+    params = {"userName": username, "includeReplies": False}
+    headers = {"X-API-Key": API_KEY}
+    
+    try:
+        response = requests.get(BASE_URL, headers=headers, params=params, timeout=30)
+        print(f"Status: {response.status_code}")
+        
+        if response.status_code == 200:
+            data = response.json()
+            data_obj = data.get("data", {})
+            tweet_count = len(data_obj.get("tweets", []))
+            print(f"✅ API working! Found {tweet_count} tweets in first batch")
+            
+            if tweet_count > 0:
+                print("\n📋 Sample tweet:")
+                sample = data_obj["tweets"][0]
+                print(f"  ID: {sample.get('id')}")
+                print(f"  Date: {sample.get('createdAt')}")
+                print(f"  Text: {sample.get('text', '')[:100]}...")
+                return True
+            else:
+                print("⚠️ API returned 0 tweets. Possible reasons:")
+                print("  - Account has no tweets")
+                print("  - Account is private")
+                print("  - Username is incorrect")
+                print("\nFull response:")
+                print(json.dumps(data, indent=2))
+                return False
+        else:
+            print(f"❌ API error: {response.text[:500]}")
+            return False
+            
+    except Exception as e:
+        print(f"❌ Connection error: {e}")
+        return False
+
+
+# === 5. MAIN LOGIC ===
+def main(username, max_tweets=None, test_mode=False):
     """
-    Fetch ALL tweets for a user using pagination.
+    Main function to fetch and filter health tweets.
     
     Args:
-        username: Twitter username
-        max_tweets: Optional limit on total tweets (None = fetch all)
-    
-    Returns:
-        List of all tweets
+        username: Twitter username without @
+        max_tweets: Maximum tweets to fetch (None = all)
+        test_mode: If True, only test API connection
     """
-    headers = {"X-API-Key": API_KEY}
-    all_tweets = []
-    cursor = ""  # Start with empty cursor for first page
-    page = 1
     
-    print(f"📥 Starting to fetch ALL tweets for @{username}...")
+    if test_mode:
+        test_api_connection(username)
+        return
     
-    while True:
-        # Build params - only include cursor if it's not empty
-        params = {"userName": username, "limit": 20}
-        if cursor:
-            params["cursor"] = cursor
-        
-        try:
-            response = requests.get(BASE_URL, headers=headers, params=params)
-            
-            if response.status_code != 200:
-                print(f"❌ Error fetching @{username} (page {page}): {response.status_code}")
-                print(f"Response: {response.text}")
-                break
-            
-            data = response.json()
-            
-            # Extract tweets
-            tweets = data.get("tweets") or data.get("data", {}).get("tweets")
-            if not tweets:
-                print(f"✅ No more tweets found for @{username} (reached end)")
-                break
-            
-            all_tweets.extend(tweets)
-            print(f"   Page {page}: Fetched {len(tweets)} tweets (Total: {len(all_tweets)})")
-            
-            # Check if there's a next page
-            has_next = data.get("has_next_page", False)
-            next_cursor = data.get("next_cursor", "")
-            
-            if not has_next or not next_cursor:
-                print(f"✅ Reached last page for @{username}")
-                break
-            
-            # Check max_tweets limit
-            if max_tweets and len(all_tweets) >= max_tweets:
-                print(f"✅ Reached max_tweets limit ({max_tweets})")
-                all_tweets = all_tweets[:max_tweets]
-                break
-            
-            # Update cursor for next iteration
-            cursor = next_cursor
-            page += 1
-            
-            # Rate limiting delay
-            time.sleep(2)
-            
-        except Exception as e:
-            print(f"❌ Exception while fetching @{username}: {e}")
-            break
+    print(f"🐦 Fetching tweets for @{username}...")
+    all_tweets = fetch_all_tweets(username, max_tweets=max_tweets)
     
-    return all_tweets
+    print(f"\n📊 Total tweets fetched: {len(all_tweets)}")
 
+    if not all_tweets:
+        print("\n❌ No tweets found!")
+        print("💡 Try running in test mode: main('melindagates', test_mode=True)")
+        return
 
-if __name__ == "__main__":
-    all_tweets_data = []
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    # Analyze for health content
+    health_tweets = []
+    print(f"\n🏥 Analyzing {len(all_tweets)} tweets for health content...")
     
-    print("=" * 60)
-    print("🚀 STARTING COMPLETE TWITTER HISTORY SCRAPER")
-    print("=" * 60)
-    
-    for idx, username in enumerate(USERNAMES, 1):
-        print(f"\n[{idx}/{len(USERNAMES)}] Processing @{username}")
-        print("-" * 60)
+    for i, tweet in enumerate(all_tweets, 1):
+        text = tweet.get("text", "")
         
-        # Fetch ALL tweets for this user
-        tweets = get_all_tweets_for_user(username)
-        
-        if not tweets:
-            print(f"⚠️ No tweets collected for @{username}")
+        if not text:
             continue
+            
+        print(f"🔄 [{i}/{len(all_tweets)}] Analyzing...", end="\r")
         
-        print(f"\n🔍 Analyzing {len(tweets)} tweets for health content...")
-        
-        # Process each tweet
-        for i, t in enumerate(tweets, start=1):
-            created_at = t.get("createdAt") or "Unknown time"
-            text = t.get("text", "").strip()
-            
-            if not text:
-                continue
-            
-            # Check if health-related
-            is_health = is_health_related_tweet(text)
-            label = "Yes" if is_health else "No"
-            
-            if i % 10 == 0:  # Progress update every 10 tweets
-                print(f"   Processed {i}/{len(tweets)} tweets...")
-            
-            all_tweets_data.append({
-                "Username": username,
-                "Created At": created_at,
-                "Tweet Text": text,
-                "Health Related": label
+        if is_health_related(text):
+            health_tweets.append({
+                "username": username,
+                "tweet_id": tweet.get("id"),
+                "url": tweet.get("url"),
+                "created_at": tweet.get("createdAt"),
+                "text": text,
+                "likes": tweet.get("likeCount", 0),
+                "retweets": tweet.get("retweetCount", 0),
+                "replies": tweet.get("replyCount", 0),
+                "author": tweet.get("author", {}).get("name")
             })
-        
-        print(f"✅ Completed @{username}: {len(tweets)} tweets processed\n")
-        
-        # Delay between users to avoid rate limits
-        if idx < len(USERNAMES):
-            print("⏳ Waiting before next user...")
-            time.sleep(3)
+            print(f"✅ [{i}/{len(all_tweets)}] Health-related! Total found: {len(health_tweets)}")
+
+    print(f"\n\n🏥 Found {len(health_tweets)} health-related tweets out of {len(all_tweets)} total")
     
-    # Save to CSV
-    csv_filename = f"all_tweets_complete_{timestamp}.csv"
-    with open(csv_filename, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(
-            f, 
-            fieldnames=["Username", "Created At", "Tweet Text", "Health Related"]
-        )
-        writer.writeheader()
-        writer.writerows(all_tweets_data)
+    if health_tweets:
+        save_health_tweets(username, health_tweets)
+    else:
+        print("💡 No health-related tweets found")
+
+
+# === RUN ===
+if __name__ == "__main__":
+    # Test API connection first
+    # main("melindagates", test_mode=True)
     
-    print("\n" + "=" * 60)
-    print("✅ SCRAPING COMPLETE!")
-    print(f"📊 Total tweets collected: {len(all_tweets_data)}")
-    print(f"💾 Saved to: {csv_filename}")
-    print("=" * 60)
+    # Then run full scrape (fetch all tweets)
+    main("unicefchief")
+    
+    # Or limit to first 100 tweets for testing
+    # main("melindagates", max_tweets=100)
