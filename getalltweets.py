@@ -271,7 +271,7 @@ if __name__ == "__main__":
     # main("melindagates", test_mode=True)
     
     # Then run full scrape (fetch all tweets)
-    main("unicefchief")
+    main("CyrilRamaphosa")
     
     # Or limit to first 100 tweets for testing
     # main("melindagates", max_tweets=100)
