@@ -1,0 +1,4381 @@
+[
+  {
+    "type": "tweet",
+    "id": "1979223680971428337",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1979223680971428337",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1979223680971428337",
+    "text": "@Mario9jaa @LegendaryJoe Nigeria GDP2010-2025 https://t.co/6bsFSM3LGK",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 92,
+    "createdAt": "Fri Oct 17 16:31:12 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": true,
+    "inReplyToId": "1978764872860242204",
+    "conversationId": "1978764872860242204",
+    "displayTextRange": [
+      25,
+      45
+    ],
+    "inReplyToUserId": "752573014869413888",
+    "inReplyToUsername": "Mario9jaa",
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/6bsFSM3LGK",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1979223680971428337/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1979223678312239109",
+          "indices": [
+            46,
+            69
+          ],
+          "media_key": "3_1979223678312239109",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARt3nXL019AFCgACG3edc5NX0fEAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG3edcvTX0AUKAAIbd51zk1fR8QAA",
+              "media_key": "3_1979223678312239109"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G3edcvTX0AUauTe.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 681,
+                "w": 681,
+                "x": 10,
+                "y": 0
+              },
+              {
+                "h": 681,
+                "w": 597,
+                "x": 52,
+                "y": 0
+              },
+              {
+                "h": 681,
+                "w": 341,
+                "x": 180,
+                "y": 0
+              },
+              {
+                "h": 681,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 681,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 681,
+              "w": 1080
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/6bsFSM3LGK"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {
+      "user_mentions": [
+        {
+          "id_str": "752573014869413888",
+          "indices": [
+            0,
+            10
+          ],
+          "name": "Wale Adedayo 🌍🔰",
+          "screen_name": "Mario9jaa"
+        },
+        {
+          "id_str": "1119322855311855618",
+          "indices": [
+            11,
+            24
+          ],
+          "name": "LEGENDARY J.O.E",
+          "screen_name": "LegendaryJoe"
+        }
+      ]
+    },
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972997564963107234",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972997564963107234",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972997564963107234",
+    "text": "ASIWAJU WELCOME TO IGBOLAND.\nWith utmost delight,we welcome His Excellency President Bola Ahmed Tinubu GCFR to Imo State ( Igboland)on a working visit.\nMr. President, your renewed hope agenda evident in your ingenious economic reforms are restoring investors confidence in our dear country.\nIn the same vein, your massive infrastructure development,youth empowerment and Social intervention programmes have increased citizens'trust and confidence in your administration.Congratulations Sir .\nAs a guest to the good people of Imo State( Igboland) and our leader His Excellency Senator Governor Hope Uzodimma - the  architect of a new, rising Imo who is  meticulously turning resources into results,we invite you to enjoy the inimitable Igbo hospitality.\nOnye Isi ala Nnoo!\nYagazie.",
+    "source": "Twitter for iPhone",
+    "retweetCount": 1,
+    "replyCount": 0,
+    "likeCount": 6,
+    "quoteCount": 0,
+    "viewCount": 454,
+    "createdAt": "Tue Sep 30 12:10:50 +0000 2025",
+    "lang": "en",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972997564963107234",
+    "displayTextRange": [
+      0,
+      277
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/G7Gp8FAlIv",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972997564963107234/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 71,
+                  "w": 71,
+                  "x": 332,
+                  "y": 720
+                },
+                {
+                  "h": 82,
+                  "w": 82,
+                  "x": 267,
+                  "y": 1407
+                },
+                {
+                  "h": 132,
+                  "w": 132,
+                  "x": 728,
+                  "y": 207
+                },
+                {
+                  "h": 106,
+                  "w": 106,
+                  "x": 634,
+                  "y": 1157
+                },
+                {
+                  "h": 131,
+                  "w": 131,
+                  "x": 62,
+                  "y": 1335
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 71,
+                  "w": 71,
+                  "x": 332,
+                  "y": 720
+                },
+                {
+                  "h": 82,
+                  "w": 82,
+                  "x": 267,
+                  "y": 1407
+                },
+                {
+                  "h": 132,
+                  "w": 132,
+                  "x": 728,
+                  "y": 207
+                },
+                {
+                  "h": 106,
+                  "w": 106,
+                  "x": 634,
+                  "y": 1157
+                },
+                {
+                  "h": 131,
+                  "w": 131,
+                  "x": 62,
+                  "y": 1335
+                }
+              ]
+            }
+          },
+          "id_str": "1972997535607197696",
+          "indices": [
+            278,
+            301
+          ],
+          "media_key": "3_1972997535607197696",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARthfs4klpAACgACG2F+1PpWMaIAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG2F+ziSWkAAKAAIbYX7U+lYxogAA",
+              "media_key": "3_1972997535607197696"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G2F-ziSWkAANHIw.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 634,
+                "w": 1132,
+                "x": 0,
+                "y": 966
+              },
+              {
+                "h": 1132,
+                "w": 1132,
+                "x": 0,
+                "y": 468
+              },
+              {
+                "h": 1290,
+                "w": 1132,
+                "x": 0,
+                "y": 310
+              },
+              {
+                "h": 1600,
+                "w": 800,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1600,
+                "w": 1132,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1600,
+            "width": 1132
+          },
+          "sizes": {
+            "large": {
+              "h": 1600,
+              "w": 1132
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/G7Gp8FAlIv"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972821500140093481",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972821500140093481",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972821500140093481",
+    "text": "https://t.co/JMvZLzmvG1",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 63,
+    "createdAt": "Tue Sep 30 00:31:13 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972821500140093481",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/JMvZLzmvG1",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972821500140093481/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 243,
+                  "w": 243,
+                  "x": 691,
+                  "y": 921
+                },
+                {
+                  "h": 242,
+                  "w": 242,
+                  "x": 334,
+                  "y": 850
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 243,
+                  "w": 243,
+                  "x": 691,
+                  "y": 921
+                },
+                {
+                  "h": 242,
+                  "w": 242,
+                  "x": 334,
+                  "y": 850
+                }
+              ]
+            }
+          },
+          "id_str": "1972821474441347072",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972821474441347072",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtg3q21VsAACgACG2Des7EagCkAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG2DerbVWwAAKAAIbYN6zsRqAKQAA",
+              "media_key": "3_1972821474441347072"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G2DerbVWwAAKu8s.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 681,
+                "w": 1216,
+                "x": 0,
+                "y": 736
+              },
+              {
+                "h": 1216,
+                "w": 1216,
+                "x": 0,
+                "y": 468
+              },
+              {
+                "h": 1386,
+                "w": 1216,
+                "x": 0,
+                "y": 336
+              },
+              {
+                "h": 1722,
+                "w": 861,
+                "x": 355,
+                "y": 0
+              },
+              {
+                "h": 1722,
+                "w": 1216,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1722,
+            "width": 1216
+          },
+          "sizes": {
+            "large": {
+              "h": 1722,
+              "w": 1216
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/JMvZLzmvG1"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972821260842459540",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972821260842459540",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972821260842459540",
+    "text": "https://t.co/gTzhCO2F9N",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 54,
+    "createdAt": "Tue Sep 30 00:30:16 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972821260842459540",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/gTzhCO2F9N",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972821260842459540/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 292,
+                  "w": 292,
+                  "x": 1194,
+                  "y": 124
+                },
+                {
+                  "h": 232,
+                  "w": 232,
+                  "x": 1610,
+                  "y": 242
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 292,
+                  "w": 292,
+                  "x": 1194,
+                  "y": 124
+                },
+                {
+                  "h": 232,
+                  "w": 232,
+                  "x": 1610,
+                  "y": 242
+                }
+              ]
+            }
+          },
+          "id_str": "1972821244455120896",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972821244455120896",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtg3ngpF3AACgACG2Dee/naYZQAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG2DeeCkXcAAKAAIbYN57+dphlAAA",
+              "media_key": "3_1972821244455120896"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G2DeeCkXcAA8MSr.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1024,
+                "w": 1829,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 1024,
+                "x": 256,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 898,
+                "x": 319,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 512,
+                "x": 512,
+                "y": 0
+              },
+              {
+                "h": 1024,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1024,
+            "width": 2048
+          },
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "w": 2048
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/gTzhCO2F9N"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972820964145774860",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972820964145774860",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972820964145774860",
+    "text": "https://t.co/enAPYvYMXH",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 49,
+    "createdAt": "Tue Sep 30 00:29:05 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972820964145774860",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/enAPYvYMXH",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972820964145774860/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 107,
+                  "w": 107,
+                  "x": 1043,
+                  "y": 243
+                },
+                {
+                  "h": 183,
+                  "w": 183,
+                  "x": 1451,
+                  "y": 193
+                },
+                {
+                  "h": 179,
+                  "w": 179,
+                  "x": 1759,
+                  "y": 249
+                },
+                {
+                  "h": 207,
+                  "w": 207,
+                  "x": 37,
+                  "y": 313
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 118,
+                  "w": 118,
+                  "x": 1146,
+                  "y": 268
+                },
+                {
+                  "h": 202,
+                  "w": 202,
+                  "x": 1595,
+                  "y": 213
+                },
+                {
+                  "h": 197,
+                  "w": 197,
+                  "x": 1933,
+                  "y": 274
+                },
+                {
+                  "h": 228,
+                  "w": 228,
+                  "x": 41,
+                  "y": 344
+                }
+              ]
+            }
+          },
+          "id_str": "1972820947796217856",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972820947796217856",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtg3jMW19AACgACG2DeNuVaQQwAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG2DeMxbX0AAKAAIbYN425VpBDAAA",
+              "media_key": "3_1972820947796217856"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G2DeMxbX0AAYMgl.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 875,
+                "w": 1563,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 875,
+                "w": 875,
+                "x": 294,
+                "y": 0
+              },
+              {
+                "h": 875,
+                "w": 768,
+                "x": 347,
+                "y": 0
+              },
+              {
+                "h": 875,
+                "w": 438,
+                "x": 512,
+                "y": 0
+              },
+              {
+                "h": 875,
+                "w": 2250,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 875,
+            "width": 2250
+          },
+          "sizes": {
+            "large": {
+              "h": 796,
+              "w": 2048
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/enAPYvYMXH"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972731561222283590",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972731561222283590",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972731561222283590",
+    "text": "https://t.co/NulT1AVu2Y",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 54,
+    "createdAt": "Mon Sep 29 18:33:50 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972731561222283590",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NulT1AVu2Y",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972731561222283590/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 308,
+                  "w": 308,
+                  "x": 70,
+                  "y": 124
+                },
+                {
+                  "h": 350,
+                  "w": 350,
+                  "x": 192,
+                  "y": 1078
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 308,
+                  "w": 308,
+                  "x": 70,
+                  "y": 124
+                },
+                {
+                  "h": 350,
+                  "w": 350,
+                  "x": 192,
+                  "y": 1078
+                }
+              ]
+            }
+          },
+          "id_str": "1972731540187586560",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972731540187586560",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtgjOJCFyAACgACG2CM5yfbIUYAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG2CM4kIXIAAKAAIbYIznJ9shRgAA",
+              "media_key": "3_1972731540187586560"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G2CM4kIXIAAgRag.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 756,
+                "w": 1350,
+                "x": 0,
+                "y": 287
+              },
+              {
+                "h": 1350,
+                "w": 1350,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1539,
+                "w": 1350,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1024,
+                "x": 326,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1350,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2048,
+            "width": 1350
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "w": 1350
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/NulT1AVu2Y"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972731217658397036",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972731217658397036",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972731217658397036",
+    "text": "https://t.co/w2en3YsMTR",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 40,
+    "createdAt": "Mon Sep 29 18:32:28 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972731217658397036",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/w2en3YsMTR",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972731217658397036/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 286,
+                  "w": 286,
+                  "x": 220,
+                  "y": 1058
+                },
+                {
+                  "h": 282,
+                  "w": 282,
+                  "x": 804,
+                  "y": 1026
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 286,
+                  "w": 286,
+                  "x": 220,
+                  "y": 1058
+                },
+                {
+                  "h": 282,
+                  "w": 282,
+                  "x": 804,
+                  "y": 1026
+                }
+              ]
+            }
+          },
+          "id_str": "1972731167636905984",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972731167636905984",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtgjIuEVuAACgACG2CMlynaQWwAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG2CMi4RW4AAKAAIbYIyXKdpBbAAA",
+              "media_key": "3_1972731167636905984"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G2CMi4RW4AA6wIv.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 756,
+                "w": 1350,
+                "x": 0,
+                "y": 82
+              },
+              {
+                "h": 1350,
+                "w": 1350,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1539,
+                "w": 1350,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1350,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 2048,
+            "width": 1350
+          },
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "w": 1350
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/w2en3YsMTR"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972730829421117795",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972730829421117795",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972730829421117795",
+    "text": "https://t.co/uwLAi2zqtl",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 35,
+    "createdAt": "Mon Sep 29 18:30:55 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972730829421117795",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/uwLAi2zqtl",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972730829421117795/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 344,
+                  "w": 344,
+                  "x": 1466,
+                  "y": 150
+                },
+                {
+                  "h": 308,
+                  "w": 308,
+                  "x": 104,
+                  "y": 270
+                },
+                {
+                  "h": 278,
+                  "w": 278,
+                  "x": 1710,
+                  "y": 656
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 344,
+                  "w": 344,
+                  "x": 1466,
+                  "y": 150
+                },
+                {
+                  "h": 308,
+                  "w": 308,
+                  "x": 104,
+                  "y": 270
+                },
+                {
+                  "h": 278,
+                  "w": 278,
+                  "x": 1710,
+                  "y": 656
+                }
+              ]
+            }
+          },
+          "id_str": "1972730755479416832",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972730755479416832",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtgjCuN1rAACgACG2CMPMUbgWMAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG2CMK43WsAAKAAIbYIw8xRuBYwAA",
+              "media_key": "3_1972730755479416832"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G2CMK43WsAAWh62.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1023,
+                "w": 1827,
+                "x": 221,
+                "y": 0
+              },
+              {
+                "h": 1023,
+                "w": 1023,
+                "x": 665,
+                "y": 0
+              },
+              {
+                "h": 1023,
+                "w": 897,
+                "x": 728,
+                "y": 0
+              },
+              {
+                "h": 1023,
+                "w": 512,
+                "x": 920,
+                "y": 0
+              },
+              {
+                "h": 1023,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1023,
+            "width": 2048
+          },
+          "sizes": {
+            "large": {
+              "h": 1023,
+              "w": 2048
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/uwLAi2zqtl"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972730622125982034",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972730622125982034",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972730622125982034",
+    "text": "https://t.co/V9hCqkyDj5",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 33,
+    "createdAt": "Mon Sep 29 18:30:06 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972730622125982034",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/V9hCqkyDj5",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972730622125982034/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1972730616715108352",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972730616715108352",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtgjAs+12AACgACG2CMDIFawVIAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG2CMCz7XYAAKAAIbYIwMgVrBUgAA",
+              "media_key": "3_1972730616715108352"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G2CMCz7XYAAbsc2.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 168,
+                "w": 300,
+                "x": 0,
+                "y": 102
+              },
+              {
+                "h": 270,
+                "w": 270,
+                "x": 22,
+                "y": 0
+              },
+              {
+                "h": 270,
+                "w": 237,
+                "x": 39,
+                "y": 0
+              },
+              {
+                "h": 270,
+                "w": 135,
+                "x": 90,
+                "y": 0
+              },
+              {
+                "h": 270,
+                "w": 300,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 270,
+            "width": 300
+          },
+          "sizes": {
+            "large": {
+              "h": 270,
+              "w": 300
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/V9hCqkyDj5"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972730523337597106",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972730523337597106",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972730523337597106",
+    "text": "https://t.co/rgtlUEu0JL",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 32,
+    "createdAt": "Mon Sep 29 18:29:42 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972730523337597106",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rgtlUEu0JL",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972730523337597106/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 122,
+                  "w": 122,
+                  "x": 634,
+                  "y": 143
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 122,
+                  "w": 122,
+                  "x": 634,
+                  "y": 143
+                }
+              ]
+            }
+          },
+          "id_str": "1972730502504157184",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972730502504157184",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtgi/CnVpAACgACG2CL9YEboLIAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG2CL8KdWkAAKAAIbYIv1gRugsgAA",
+              "media_key": "3_1972730502504157184"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G2CL8KdWkAAd2rm.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 103
+              },
+              {
+                "h": 720,
+                "w": 720,
+                "x": 315,
+                "y": 0
+              },
+              {
+                "h": 720,
+                "w": 632,
+                "x": 359,
+                "y": 0
+              },
+              {
+                "h": 720,
+                "w": 360,
+                "x": 495,
+                "y": 0
+              },
+              {
+                "h": 720,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 720,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 720,
+              "w": 1080
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/rgtlUEu0JL"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972677521008181269",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972677521008181269",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972677521008181269",
+    "text": "https://t.co/yGoOBXHAE0",
+    "source": "Twitter for iPhone",
+    "retweetCount": 2,
+    "replyCount": 0,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "viewCount": 418,
+    "createdAt": "Mon Sep 29 14:59:06 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972677521008181269",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/yGoOBXHAE0",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972677521008181269/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 151,
+                  "w": 151,
+                  "x": 850,
+                  "y": 140
+                },
+                {
+                  "h": 126,
+                  "w": 126,
+                  "x": 1053,
+                  "y": 207
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 151,
+                  "w": 151,
+                  "x": 850,
+                  "y": 140
+                },
+                {
+                  "h": 126,
+                  "w": 126,
+                  "x": 1053,
+                  "y": 207
+                }
+              ]
+            }
+          },
+          "id_str": "1972677513936576512",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972677513936576512",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtgW79KlyAACgACG2BbwPAXQBUAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG2Bbv0qXIAAKAAIbYFvA8BdAFQAA",
+              "media_key": "3_1972677513936576512"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G2Bbv0qXIAAnH7f.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 631,
+                "w": 1127,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 631,
+                "w": 631,
+                "x": 228,
+                "y": 0
+              },
+              {
+                "h": 631,
+                "w": 554,
+                "x": 266,
+                "y": 0
+              },
+              {
+                "h": 631,
+                "w": 316,
+                "x": 385,
+                "y": 0
+              },
+              {
+                "h": 631,
+                "w": 1280,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 631,
+            "width": 1280
+          },
+          "sizes": {
+            "large": {
+              "h": 631,
+              "w": 1280
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/yGoOBXHAE0"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972677399910256755",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972677399910256755",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972677399910256755",
+    "text": "https://t.co/lpY2fvgaIk",
+    "source": "Twitter for iPhone",
+    "retweetCount": 1,
+    "replyCount": 1,
+    "likeCount": 1,
+    "quoteCount": 0,
+    "viewCount": 343,
+    "createdAt": "Mon Sep 29 14:58:37 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972677399910256755",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/lpY2fvgaIk",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972677399910256755/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 156,
+                  "w": 156,
+                  "x": 1008,
+                  "y": 280
+                },
+                {
+                  "h": 178,
+                  "w": 178,
+                  "x": 711,
+                  "y": 75
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 156,
+                  "w": 156,
+                  "x": 1008,
+                  "y": 280
+                },
+                {
+                  "h": 178,
+                  "w": 178,
+                  "x": 711,
+                  "y": 75
+                }
+              ]
+            }
+          },
+          "id_str": "1972677391664152576",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972677391664152576",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtgW6LSlgAACgACG2BbpL4XkHMAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG2BbotKWAAAKAAIbYFukvheQcwAA",
+              "media_key": "3_1972677391664152576"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G2BbotKWAAAT4Bt.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 628,
+                "w": 1121,
+                "x": 159,
+                "y": 0
+              },
+              {
+                "h": 628,
+                "w": 628,
+                "x": 486,
+                "y": 0
+              },
+              {
+                "h": 628,
+                "w": 551,
+                "x": 525,
+                "y": 0
+              },
+              {
+                "h": 628,
+                "w": 314,
+                "x": 643,
+                "y": 0
+              },
+              {
+                "h": 628,
+                "w": 1280,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 628,
+            "width": 1280
+          },
+          "sizes": {
+            "large": {
+              "h": 628,
+              "w": 1280
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/lpY2fvgaIk"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972677303588045005",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972677303588045005",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972677303588045005",
+    "text": "https://t.co/tWMADk1w2r",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 38,
+    "createdAt": "Mon Sep 29 14:58:14 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972677303588045005",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/tWMADk1w2r",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972677303588045005/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 1076,
+                  "y": 206
+                },
+                {
+                  "h": 181,
+                  "w": 181,
+                  "x": 793,
+                  "y": 82
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 1076,
+                  "y": 206
+                },
+                {
+                  "h": 181,
+                  "w": 181,
+                  "x": 793,
+                  "y": 82
+                }
+              ]
+            }
+          },
+          "id_str": "1972677294859689984",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972677294859689984",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtgW4xIlyAACgACG2BbjlDXQM0AAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG2BbjEiXIAAKAAIbYFuOUNdAzQAA",
+              "media_key": "3_1972677294859689984"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G2BbjEiXIAADmpc.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 644,
+                "w": 1150,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 644,
+                "w": 644,
+                "x": 30,
+                "y": 0
+              },
+              {
+                "h": 644,
+                "w": 565,
+                "x": 70,
+                "y": 0
+              },
+              {
+                "h": 644,
+                "w": 322,
+                "x": 191,
+                "y": 0
+              },
+              {
+                "h": 644,
+                "w": 1280,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 644,
+            "width": 1280
+          },
+          "sizes": {
+            "large": {
+              "h": 644,
+              "w": 1280
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/tWMADk1w2r"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972677080715239564",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972677080715239564",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972677080715239564",
+    "text": "https://t.co/2XkvOgG9j9",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 31,
+    "createdAt": "Mon Sep 29 14:57:21 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972677080715239564",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/2XkvOgG9j9",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972677080715239564/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 59,
+                  "w": 59,
+                  "x": 10,
+                  "y": 93
+                },
+                {
+                  "h": 143,
+                  "w": 143,
+                  "x": 77,
+                  "y": 701
+                },
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 302,
+                  "y": 782
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 59,
+                  "w": 59,
+                  "x": 10,
+                  "y": 93
+                },
+                {
+                  "h": 143,
+                  "w": 143,
+                  "x": 77,
+                  "y": 701
+                },
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 302,
+                  "y": 782
+                }
+              ]
+            }
+          },
+          "id_str": "1972677077397602304",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972677077397602304",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtgW1mm1wAACgACG2BbWmyWIIwAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG2BbWabXAAAKAAIbYFtabJYgjAAA",
+              "media_key": "3_1972677077397602304"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G2BbWabXAAA1y5i.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 301,
+                "w": 538,
+                "x": 0,
+                "y": 638
+              },
+              {
+                "h": 538,
+                "w": 538,
+                "x": 0,
+                "y": 519
+              },
+              {
+                "h": 613,
+                "w": 538,
+                "x": 0,
+                "y": 475
+              },
+              {
+                "h": 1076,
+                "w": 538,
+                "x": 0,
+                "y": 12
+              },
+              {
+                "h": 1088,
+                "w": 538,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1088,
+            "width": 538
+          },
+          "sizes": {
+            "large": {
+              "h": 1088,
+              "w": 538
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/2XkvOgG9j9"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972674882660942173",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972674882660942173",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972674882660942173",
+    "text": "https://t.co/sczqFIsDVu",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 25,
+    "createdAt": "Mon Sep 29 14:48:37 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972674882660942173",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/sczqFIsDVu",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972674882660942173/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 180,
+                  "w": 180,
+                  "x": 182,
+                  "y": 96
+                },
+                {
+                  "h": 165,
+                  "w": 165,
+                  "x": 1038,
+                  "y": 230
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 180,
+                  "w": 180,
+                  "x": 182,
+                  "y": 96
+                },
+                {
+                  "h": 165,
+                  "w": 165,
+                  "x": 1038,
+                  "y": 230
+                }
+              ]
+            }
+          },
+          "id_str": "1972674874498744320",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972674874498744320",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtgWVi/1gAACgACG2BZWqZXQV0AAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG2BZWL/WAAAKAAIbYFlapldBXQAA",
+              "media_key": "3_1972674874498744320"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G2BZWL_WAAAqkUr.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 610,
+                "w": 1089,
+                "x": 191,
+                "y": 0
+              },
+              {
+                "h": 610,
+                "w": 610,
+                "x": 492,
+                "y": 0
+              },
+              {
+                "h": 610,
+                "w": 535,
+                "x": 530,
+                "y": 0
+              },
+              {
+                "h": 610,
+                "w": 305,
+                "x": 645,
+                "y": 0
+              },
+              {
+                "h": 610,
+                "w": 1280,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 610,
+            "width": 1280
+          },
+          "sizes": {
+            "large": {
+              "h": 610,
+              "w": 1280
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/sczqFIsDVu"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972612075127234930",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972612075127234930",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972612075127234930",
+    "text": "https://t.co/YZ32MIe2dV",
+    "source": "Twitter for iPhone",
+    "retweetCount": 1,
+    "replyCount": 0,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "viewCount": 473,
+    "createdAt": "Mon Sep 29 10:39:02 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972612075127234930",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YZ32MIe2dV",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972612075127234930/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 161,
+                  "w": 161,
+                  "x": 1042,
+                  "y": 225
+                },
+                {
+                  "h": 226,
+                  "w": 226,
+                  "x": 140,
+                  "y": 86
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 161,
+                  "w": 161,
+                  "x": 1042,
+                  "y": 225
+                },
+                {
+                  "h": 226,
+                  "w": 226,
+                  "x": 140,
+                  "y": 86
+                }
+              ]
+            }
+          },
+          "id_str": "1972612067933790208",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972612067933790208",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtgIDl016AACgACG2AgOyGa4XIAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG2AgOXTXoAAKAAIbYCA7IZrhcgAA",
+              "media_key": "3_1972612067933790208"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G2AgOXTXoAAEDyh.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 631,
+                "w": 1127,
+                "x": 153,
+                "y": 0
+              },
+              {
+                "h": 631,
+                "w": 631,
+                "x": 547,
+                "y": 0
+              },
+              {
+                "h": 631,
+                "w": 554,
+                "x": 585,
+                "y": 0
+              },
+              {
+                "h": 631,
+                "w": 316,
+                "x": 704,
+                "y": 0
+              },
+              {
+                "h": 631,
+                "w": 1280,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 631,
+            "width": 1280
+          },
+          "sizes": {
+            "large": {
+              "h": 631,
+              "w": 1280
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YZ32MIe2dV"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972522979465785509",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972522979465785509",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972522979465785509",
+    "text": "https://t.co/77YsGeA5V8",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 78,
+    "createdAt": "Mon Sep 29 04:45:00 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972522979465785509",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/77YsGeA5V8",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972522979465785509/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 74,
+                  "w": 74,
+                  "x": 712,
+                  "y": 404
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 786,
+                  "y": 388
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 1242,
+                  "y": 410
+                },
+                {
+                  "h": 106,
+                  "w": 106,
+                  "x": 1252,
+                  "y": 902
+                },
+                {
+                  "h": 120,
+                  "w": 120,
+                  "x": 948,
+                  "y": 388
+                },
+                {
+                  "h": 244,
+                  "w": 244,
+                  "x": 1464,
+                  "y": 318
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 74,
+                  "w": 74,
+                  "x": 712,
+                  "y": 404
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 786,
+                  "y": 388
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 1242,
+                  "y": 410
+                },
+                {
+                  "h": 106,
+                  "w": 106,
+                  "x": 1252,
+                  "y": 902
+                },
+                {
+                  "h": 120,
+                  "w": 120,
+                  "x": 948,
+                  "y": 388
+                },
+                {
+                  "h": 244,
+                  "w": 244,
+                  "x": 1464,
+                  "y": 318
+                }
+              ]
+            }
+          },
+          "id_str": "1972522961975341056",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972522961975341056",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtfzy7b13AACgACG1/PMu5acKUAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG1/PLtvXcAAKAAIbX88y7lpwpQAA",
+              "media_key": "3_1972522961975341056"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G1_PLtvXcAAe4iw.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1147,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1365,
+                "w": 1365,
+                "x": 683,
+                "y": 0
+              },
+              {
+                "h": 1365,
+                "w": 1197,
+                "x": 851,
+                "y": 0
+              },
+              {
+                "h": 1365,
+                "w": 683,
+                "x": 1246,
+                "y": 0
+              },
+              {
+                "h": 1365,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1365,
+            "width": 2048
+          },
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "w": 2048
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/77YsGeA5V8"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972521744746615266",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972521744746615266",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972521744746615266",
+    "text": "https://t.co/kWmwsiGCSD",
+    "source": "Twitter for iPhone",
+    "retweetCount": 2,
+    "replyCount": 0,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "viewCount": 370,
+    "createdAt": "Mon Sep 29 04:40:06 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972521744746615266",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/kWmwsiGCSD",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972521744746615266/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 109,
+                  "w": 109,
+                  "x": 405,
+                  "y": 283
+                },
+                {
+                  "h": 121,
+                  "w": 121,
+                  "x": 116,
+                  "y": 287
+                },
+                {
+                  "h": 141,
+                  "w": 141,
+                  "x": 750,
+                  "y": 156
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 109,
+                  "w": 109,
+                  "x": 405,
+                  "y": 283
+                },
+                {
+                  "h": 121,
+                  "w": 121,
+                  "x": 116,
+                  "y": 287
+                },
+                {
+                  "h": 141,
+                  "w": 141,
+                  "x": 750,
+                  "y": 156
+                }
+              ]
+            }
+          },
+          "id_str": "1972521731689431040",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972521731689431040",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtfzhBpFkAACgACG1/OE3NbEeIAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG1/OEGkWQAAKAAIbX84Tc1sR4gAA",
+              "media_key": "3_1972521731689431040"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G1_OEGkWQAAkru6.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 49
+              },
+              {
+                "h": 720,
+                "w": 720,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 720,
+                "w": 632,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 720,
+                "w": 360,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 720,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 720,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 720,
+              "w": 1080
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/kWmwsiGCSD"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972521516190626069",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972521516190626069",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972521516190626069",
+    "text": "https://t.co/MWOwQMUQ7p",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 45,
+    "createdAt": "Mon Sep 29 04:39:11 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972521516190626069",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/MWOwQMUQ7p",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972521516190626069/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 805,
+                  "y": 179
+                },
+                {
+                  "h": 60,
+                  "w": 60,
+                  "x": 73,
+                  "y": 169
+                },
+                {
+                  "h": 226,
+                  "w": 226,
+                  "x": 366,
+                  "y": 147
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 38,
+                  "w": 38,
+                  "x": 805,
+                  "y": 179
+                },
+                {
+                  "h": 60,
+                  "w": 60,
+                  "x": 73,
+                  "y": 169
+                },
+                {
+                  "h": 226,
+                  "w": 226,
+                  "x": 366,
+                  "y": 147
+                }
+              ]
+            }
+          },
+          "id_str": "1972521507365470208",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972521507365470208",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtfzdwuVkAACgACG1/N3jxbcRUAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG1/N3C5WQAAKAAIbX83ePFtxFQAA",
+              "media_key": "3_1972521507365470208"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G1_N3C5WQAAxxZN.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 503,
+                "w": 899,
+                "x": 0,
+                "y": 576
+              },
+              {
+                "h": 899,
+                "w": 899,
+                "x": 0,
+                "y": 180
+              },
+              {
+                "h": 1025,
+                "w": 899,
+                "x": 0,
+                "y": 54
+              },
+              {
+                "h": 1079,
+                "w": 540,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1079,
+                "w": 899,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1079,
+            "width": 899
+          },
+          "sizes": {
+            "large": {
+              "h": 1079,
+              "w": 899
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/MWOwQMUQ7p"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972521349613813768",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972521349613813768",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972521349613813768",
+    "text": "https://t.co/5EF1gQoZRA",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 37,
+    "createdAt": "Mon Sep 29 04:38:32 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972521349613813768",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/5EF1gQoZRA",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972521349613813768/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 74,
+                  "w": 74,
+                  "x": 712,
+                  "y": 404
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 786,
+                  "y": 388
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 1242,
+                  "y": 410
+                },
+                {
+                  "h": 106,
+                  "w": 106,
+                  "x": 1252,
+                  "y": 902
+                },
+                {
+                  "h": 120,
+                  "w": 120,
+                  "x": 948,
+                  "y": 388
+                },
+                {
+                  "h": 244,
+                  "w": 244,
+                  "x": 1464,
+                  "y": 318
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 74,
+                  "w": 74,
+                  "x": 712,
+                  "y": 404
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 786,
+                  "y": 388
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 1242,
+                  "y": 410
+                },
+                {
+                  "h": 106,
+                  "w": 106,
+                  "x": 1252,
+                  "y": 902
+                },
+                {
+                  "h": 120,
+                  "w": 120,
+                  "x": 948,
+                  "y": 388
+                },
+                {
+                  "h": 244,
+                  "w": 244,
+                  "x": 1464,
+                  "y": 318
+                }
+              ]
+            }
+          },
+          "id_str": "1972521331976531968",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972521331976531968",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtfzbNYV3AACgACG1/Nt3ObAAgAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG1/Ns1hXcAAKAAIbX823c5sACAAA",
+              "media_key": "3_1972521331976531968"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G1_Ns1hXcAAcSIx.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 1147,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1365,
+                "w": 1365,
+                "x": 683,
+                "y": 0
+              },
+              {
+                "h": 1365,
+                "w": 1197,
+                "x": 851,
+                "y": 0
+              },
+              {
+                "h": 1365,
+                "w": 683,
+                "x": 1246,
+                "y": 0
+              },
+              {
+                "h": 1365,
+                "w": 2048,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1365,
+            "width": 2048
+          },
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "w": 2048
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/5EF1gQoZRA"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972521162325573864",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972521162325573864",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972521162325573864",
+    "text": "https://t.co/j8PsgCvTTH",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 32,
+    "createdAt": "Mon Sep 29 04:37:47 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972521162325573864",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/j8PsgCvTTH",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972521162325573864/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {},
+            "orig": {}
+          },
+          "id_str": "1972521159112503296",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972521159112503296",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtfzYsY17AACgACG1/Ni9hbQOgAAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG1/NixjXsAAKAAIbX82L2FtA6AAA",
+              "media_key": "3_1972521159112503296"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G1_NixjXsAAjy40.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 634,
+                "w": 1132,
+                "x": 0,
+                "y": 966
+              },
+              {
+                "h": 1132,
+                "w": 1132,
+                "x": 0,
+                "y": 468
+              },
+              {
+                "h": 1290,
+                "w": 1132,
+                "x": 0,
+                "y": 310
+              },
+              {
+                "h": 1600,
+                "w": 800,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1600,
+                "w": 1132,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1600,
+            "width": 1132
+          },
+          "sizes": {
+            "large": {
+              "h": 1600,
+              "w": 1132
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/j8PsgCvTTH"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  },
+  {
+    "type": "tweet",
+    "id": "1972521105903788334",
+    "url": "https://x.com/Dr_N_Ukachu_MFR/status/1972521105903788334",
+    "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972521105903788334",
+    "text": "https://t.co/srztBR6K6Q",
+    "source": "Twitter for iPhone",
+    "retweetCount": 0,
+    "replyCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "viewCount": 33,
+    "createdAt": "Mon Sep 29 04:37:33 +0000 2025",
+    "lang": "zxx",
+    "bookmarkCount": 0,
+    "isReply": false,
+    "inReplyToId": null,
+    "conversationId": "1972521105903788334",
+    "displayTextRange": [
+      0,
+      0
+    ],
+    "inReplyToUserId": null,
+    "inReplyToUsername": null,
+    "author": {
+      "type": "user",
+      "userName": "Dr_N_Ukachu_MFR",
+      "url": "https://x.com/Dr_N_Ukachu_MFR",
+      "twitterUrl": "https://twitter.com/Dr_N_Ukachu_MFR",
+      "id": "1955607960547131392",
+      "name": "Prince Dr Nicholas C Ukachukwu MFR",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "verifiedType": null,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1955608223169253376/Np4tQZWu_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1955607960547131392/1759120866",
+      "description": "",
+      "location": "Anambra, Nigeria",
+      "followers": 26,
+      "following": 17,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Wed Aug 13 12:31:10 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {}
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 0,
+      "hasCustomTimelines": true,
+      "isTranslator": false,
+      "mediaCount": 22,
+      "statusesCount": 22,
+      "withheldInCountries": [],
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [],
+      "profile_bio": {
+        "description": "Husband. Business man. Anambra State APC Governorship Candidate 2025",
+        "entities": {
+          "description": {},
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikukuomaanambra.org",
+                "expanded_url": "http://www.ikukuomaanambra.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/V1mfTFCyWm"
+              }
+            ]
+          }
+        }
+      },
+      "isAutomated": false,
+      "automatedBy": null
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/srztBR6K6Q",
+          "expanded_url": "https://twitter.com/Dr_N_Ukachu_MFR/status/1972521105903788334/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 93,
+                  "w": 93,
+                  "x": 374,
+                  "y": 102
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 93,
+                  "w": 93,
+                  "x": 374,
+                  "y": 102
+                }
+              ]
+            }
+          },
+          "id_str": "1972521095535132672",
+          "indices": [
+            0,
+            23
+          ],
+          "media_key": "3_1972521095535132672",
+          "media_results": {
+            "id": "QXBpTWVkaWFSZXN1bHRzOgwAAQoAARtfzXxLVgAACgACG1/NfrVbIS4AAA==",
+            "result": {
+              "__typename": "ApiMedia",
+              "id": "QXBpTWVkaWE6DAABCgABG1/NfEtWAAAKAAIbX81+tVshLgAA",
+              "media_key": "3_1972521095535132672"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/G1_NfEtWAAA2BKq.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 360,
+                "w": 643,
+                "x": 82,
+                "y": 0
+              },
+              {
+                "h": 360,
+                "w": 360,
+                "x": 223,
+                "y": 0
+              },
+              {
+                "h": 360,
+                "w": 316,
+                "x": 245,
+                "y": 0
+              },
+              {
+                "h": 360,
+                "w": 180,
+                "x": 313,
+                "y": 0
+              },
+              {
+                "h": 360,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 360,
+            "width": 1080
+          },
+          "sizes": {
+            "large": {
+              "h": 360,
+              "w": 1080
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/srztBR6K6Q"
+        }
+      ]
+    },
+    "card": null,
+    "place": {},
+    "entities": {},
+    "quoted_tweet": null,
+    "retweeted_tweet": null,
+    "isLimitedReply": false,
+    "article": null
+  }
+]
